@@ -14,9 +14,13 @@ Created linear progression models targeting Wells Fargo advisors
 
 <h2>Languages and Utilities Used</h2>
 - <b>Python</b>
+
 - <b>PowerBI</b>
+
 - <b>SAS</b>
+
 - <b>NumPy</b>
+
 - <b>Pandas</b>
 
 
